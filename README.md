@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-interactive-card-Jkdc1T2x67)
+- Live Site URL: [Interactive rating](https://playful-sawine-6b0a49.netlify.app/)
 
 ## My process
 
